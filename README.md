@@ -23,3 +23,6 @@ reader.InitLicense("t0068NQAAACqUjZa21C+W7fRdPkf2FRFRr+QpfVC2tDsl/8t25TzYCNxl5s0
 Build and run the app.
 
 ![UWP barcode reader](https://www.codepool.biz/wp-content/uploads/2018/11/uwp-barcode-reader.PNG)
+
+## Blog
+[Building UWP Barcode Reader with C++/WinRT and JavaScript](https://www.codepool.biz/uwp-barcode-reader-winrt-javascript.html)
